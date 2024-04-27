@@ -40,3 +40,7 @@ The original dataset was obtained from a car-sharing company and includes hourly
 
 ## Author
 [Imaobong Uwah](https://www.linkedin.com/in/imaobonguwah/)
+
+## License
+This project is licenced under the Datafied Technologies License – see the LICENSE file for details.
+
